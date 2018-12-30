@@ -1,8 +1,13 @@
 package se.kth.emibra.id1212.hw1.server.integration;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URISyntaxException;
+import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
@@ -18,14 +23,19 @@ public class LineReader {
      */
     public static String getRandomLineFromFile() {
         int length = 0;
-        List<String> lines = null;
+        List<String> words = null;
         try {
-            lines = Files.readAllLines(Paths.get("res/words.txt"));
-            length = lines.size();
+            BufferedReader reader = new BufferedReader(new InputStreamReader(ClassLoader.getSystemResourceAsStream("words.txt")));
+            words = new LinkedList<>();
+            String line;
+            while ((line = reader.readLine()) != null ) {
+                words.add(line);
+            }
+            length = words.size();
         } catch (IOException e) {
             System.out.println("Could not read read word from file.");
             e.printStackTrace();
         }
-        return lines.get(new Random().nextInt(length));
+        return words.get(new Random().nextInt(length));
     }
 }
