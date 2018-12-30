@@ -7,7 +7,7 @@ import se.kth.emibra.id1212.hw1.server.controller.ServerController;
  */
 public class ServerApp {
 
-    private static final int SERVER_PORT = 54321;
+    private static final int SERVER_PORT = 4455;
 
     /**
      * Starts the server on specified port.

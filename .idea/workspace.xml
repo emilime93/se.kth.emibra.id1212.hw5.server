@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hangman:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c60a7281-55b0-409f-b210-b34f3cab15bc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,34 +22,63 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="221" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-801831133">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="Manifest" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="574" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="hangman" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/ClientHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="94" column="38" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
+            <state relative-caret-position="289">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java">
+        <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/integration/LineReader.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="267">
               <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+=======
+            <state relative-caret-position="408">
+              <caret line="35" column="82" selection-start-line="35" selection-start-column="82" selection-end-line="35" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> a3deff1633fc8cb8d1d22a261e9f51633b08771a
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/GameCommand.java">
+        <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/starter/ServerApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -52,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/SoughtWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="255">
               <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
             </state>
           </provider>
@@ -61,7 +95,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameActionFeedback.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="85">
               <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
@@ -70,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="56" column="32" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+            <state relative-caret-position="782">
+              <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -79,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="117" column="39" lean-forward="true" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
+            <state relative-caret-position="1870">
+              <caret line="117" column="39" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -88,7 +122,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/ConnectionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="119">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
@@ -97,7 +131,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="51">
               <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="37" />
             </state>
           </provider>
@@ -106,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/ServerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="340">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
@@ -190,24 +224,104 @@
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/controller/CommandController.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/view/CommandLineInterface.java" />
-        <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/integration/LineReader.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/Serializer.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/ConnectionHandler.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/ServerController.java" />
-        <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/starter/ServerApp.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameActionFeedback.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/ClientHandler.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/Game.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/SoughtWord.java" />
         <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java" />
+        <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/starter/ServerApp.java" />
+        <option value="$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/integration/LineReader.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -215,102 +329,118 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="hangman_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="hangman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hw1" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hw1" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hw1" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se.kth.emibra.id1212.hw5.server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hw1" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="starter" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="se.kth.emibra.id1212.hw5.server" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="clientio&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/controller/ClientIO.java&#10;sesi&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/model/SessionIdentifier.java&#10;game&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.model.Game&#10;gamecon&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java&#10;interf&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/view/CommandLineInterface.java&#10;server&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java&#10;gamecontr&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/controller/GameController.java&#10;GameSt&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/shared/GameState.java&#10;serverha&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java&#10;gamin&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java&#10;gameview&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/view/GameView.java&#10;serverhan&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java&#10;gamein&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java&#10;ser&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/controller/ServerController.java&#10;gamecont&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.controller.GameController&#10;gamcon&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/controller/GameController.java&#10;app&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/starter/ClientApp.java&#10;GameController&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java&#10;Game&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.model.Game&#10;gaminf&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java&#10;client&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/net/ClientHandler.java&#10;gamecomm&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/utils/GameCommand.java&#10;startGame&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.controller.GameController#startGame&#10;gamecom&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/utils/GameCommand.java&#10;parse&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.controller.GameController#parseCommand&#10;cli&#9;FILE&#9;file:///Users/Emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/net/ClientHandler.java&#10;line&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.integration.LineReader&#10;gam&#9;FILE&#9;file:///Users/Emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/utils/GameCommand.java&#10;connec&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.net.ConnectionHandler&#10;gamcom&#9;FILE&#9;file:///Users/Emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/utils/GameCommand.java&#10;req&#9;FILE&#9;file:///Users/Emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/net/RequestHandler.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546206289765" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546205768571" />
+>>>>>>> a3deff1633fc8cb8d1d22a261e9f51633b08771a
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -339,7 +469,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.ServerApp">
-    <configuration default="true" type="Applet">
+    <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -385,7 +515,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -393,11 +523,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
+      <predefined_log_file id="idea.log" enabled="true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -450,7 +580,12 @@
       <workItem from="1543584253990" duration="11000" />
       <workItem from="1543660106175" duration="18000" />
       <workItem from="1543666083626" duration="509000" />
+<<<<<<< HEAD
       <workItem from="1546167406995" duration="11745000" />
+=======
+      <workItem from="1546167406995" duration="11582000" />
+      <workItem from="1546197434716" duration="5196000" />
+>>>>>>> a3deff1633fc8cb8d1d22a261e9f51633b08771a
     </task>
     <task id="LOCAL-00001" summary="Did alot of things, should have committed earlier">
       <created>1541077730587</created>
@@ -680,7 +815,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="147606000" />
+=======
+    <option name="totallyTimeSpent" value="152639000" />
+>>>>>>> a3deff1633fc8cb8d1d22a261e9f51633b08771a
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -692,29 +831,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+>>>>>>> a3deff1633fc8cb8d1d22a261e9f51633b08771a
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49708456" visible="true" weight="0.21123321" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49708456" visible="true" weight="0.18443497" />
       <window_info id="Structure" order="1" sideWeight="0.50291544" side_tool="true" weight="0.16971917" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50291544" side_tool="true" weight="0.16971917" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.3026738" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.30260304" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34759358" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32834226" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3275488" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -725,6 +868,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32967034" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -765,20 +909,9 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -812,150 +945,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added missing comments" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="387" column="49" lean-forward="true" selection-start-line="387" selection-start-column="49" selection-end-line="387" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/exceptions/GameIsOverException.java" />
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/exceptions/IncompleteArgumentException.java" />
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/exceptions/LostException.java" />
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/exceptions/OutOfGuessesException.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/Player.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="39" column="127" selection-start-line="39" selection-start-column="127" selection-end-line="39" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="156" selection-start-line="156" selection-end-line="156" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/NetworkIO.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SelectionKeyImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="143" column="28" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SelectionKeyImpl.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/SessionIdentifier.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12285">
-          <caret line="853" column="11" selection-start-line="853" selection-start-column="11" selection-end-line="853" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Runnable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/view/Logger.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="593" column="25" selection-start-line="593" selection-start-column="25" selection-end-line="593" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/channels/Selector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="370" column="29" selection-start-line="370" selection-start-column="29" selection-end-line="370" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/channels/SocketChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="466" column="24" selection-start-line="466" selection-start-column="24" selection-end-line="466" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="191" column="11" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="196" column="28" lean-forward="true" selection-start-line="196" selection-start-column="28" selection-end-line="196" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/channels/Selector.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/channels/SocketChannel.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Queue.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/view/Logger.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/view/ClientLogger.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/view/ServerLogger.java" />
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="126" column="91" lean-forward="true" selection-start-line="126" selection-start-column="91" selection-end-line="126" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/controller/CommandController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/starter/ClientApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/view/CommandLineInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/view/GameView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/controller/CommandController.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/starter/ClientApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/view/CommandLineInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/client/view/GameView.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/ClientIO.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/exceptions/AlreadyGuessedException.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -974,34 +988,8 @@
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/NoFullMessageException.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/Serializer.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/GameHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/integration/LineReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="173" column="16" selection-start-line="173" selection-start-column="16" selection-end-line="173" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/starter/ServerApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java" />
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/ParsedCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1009,73 +997,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="56" column="32" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="117" column="39" lean-forward="true" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/ConnectionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/ServerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameActionFeedback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/SoughtWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/ClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
+        <state relative-caret-position="1530">
           <caret line="94" column="38" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/GameCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="85">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/SoughtWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameActionFeedback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/model/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="117" column="39" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/net/ConnectionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/shared/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/ServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="2259" column="24" selection-start-line="2259" selection-start-column="24" selection-end-line="2259" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/nio/file/Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+          <folding>
+            <element signature="e#2673#2674#0" expanded="true" />
+            <element signature="e#2741#2742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="1327" column="30" selection-start-line="1327" selection-start-column="30" selection-end-line="1327" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/starter/ServerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/integration/LineReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="267">
           <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+=======
+        <state relative-caret-position="408">
+          <caret line="35" column="82" selection-start-line="35" selection-start-column="82" selection-end-line="35" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> a3deff1633fc8cb8d1d22a261e9f51633b08771a
         </state>
       </provider>
     </entry>
@@ -1084,11 +1129,20 @@
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <artifact-editor />
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>hangman:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5646552" />
               </list>
             </option>
           </splitter-proportions>
