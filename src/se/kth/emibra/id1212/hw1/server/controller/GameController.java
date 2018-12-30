@@ -9,7 +9,6 @@ import se.kth.emibra.id1212.hw1.shared.GameInfo;
 import se.kth.emibra.id1212.hw1.server.model.GameCommand;
 import se.kth.emibra.id1212.hw1.shared.GameState;
 
-import java.io.IOException;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;

@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="196" column="54" lean-forward="true" selection-start-line="196" selection-start-column="54" selection-end-line="196" selection-end-column="54" />
+            <state relative-caret-position="357">
+              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -204,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -222,6 +222,11 @@
             <path>
               <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
               <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hangman_server" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hangman_server" type="b2602c69:ProjectViewProjectNode" />
@@ -294,7 +299,7 @@
     <property name="SearchEverywhereHistoryKey" value="clientio&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/controller/ClientIO.java&#10;sesi&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/model/SessionIdentifier.java&#10;game&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.model.Game&#10;gamecon&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java&#10;interf&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/view/CommandLineInterface.java&#10;server&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java&#10;gamecontr&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/controller/GameController.java&#10;GameSt&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/shared/GameState.java&#10;serverha&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java&#10;gamin&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java&#10;gameview&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/view/GameView.java&#10;serverhan&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/net/ServerHandler.java&#10;gamein&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java&#10;ser&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/controller/ServerController.java&#10;gamecont&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.controller.GameController&#10;gamcon&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/controller/GameController.java&#10;app&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/client/starter/ClientApp.java&#10;GameController&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java&#10;Game&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.model.Game&#10;gaminf&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/shared/GameInfo.java&#10;client&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/net/ClientHandler.java&#10;gamecomm&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/utils/GameCommand.java&#10;startGame&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.controller.GameController#startGame&#10;gamecom&#9;FILE&#9;file:///Users/emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/utils/GameCommand.java&#10;parse&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.controller.GameController#parseCommand&#10;cli&#9;FILE&#9;file:///Users/Emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/net/ClientHandler.java&#10;line&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.integration.LineReader&#10;gam&#9;FILE&#9;file:///Users/Emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/utils/GameCommand.java&#10;connec&#9;PSI&#9;JAVA://se.kth.emibra.id1212.hw1.server.net.ConnectionHandler&#10;gamcom&#9;FILE&#9;file:///Users/Emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/utils/GameCommand.java&#10;req&#9;FILE&#9;file:///Users/Emil/Dropbox/KTH/ID1212 - Nätverksprogrammering/homeworks/hw1/hangman/src/se/kth/emibra/id1212/hw1/server/net/RequestHandler.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546188605128" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546196087465" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -445,7 +450,7 @@
       <workItem from="1543584253990" duration="11000" />
       <workItem from="1543660106175" duration="18000" />
       <workItem from="1543666083626" duration="509000" />
-      <workItem from="1546167406995" duration="10687000" />
+      <workItem from="1546167406995" duration="11582000" />
     </task>
     <task id="LOCAL-00001" summary="Did alot of things, should have committed earlier">
       <created>1541077730587</created>
@@ -675,7 +680,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146548000" />
+    <option name="totallyTimeSpent" value="147443000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -687,10 +692,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49708456" visible="true" weight="0.21123321" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49708456" visible="true" weight="0.21123321" />
       <window_info id="Structure" order="1" sideWeight="0.50291544" side_tool="true" weight="0.16971917" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -700,7 +705,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.3026738" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.3026738" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34759358" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1070,8 +1075,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/kth/emibra/id1212/hw1/server/controller/GameController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="196" column="54" lean-forward="true" selection-start-line="196" selection-start-column="54" selection-end-line="196" selection-end-column="54" />
+        <state relative-caret-position="357">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
         </state>
       </provider>
     </entry>
