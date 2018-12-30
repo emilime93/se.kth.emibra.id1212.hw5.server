@@ -33,8 +33,9 @@ public class LineReader {
             }
             length = words.size();
         } catch (IOException e) {
-            System.out.println("Could not read read word from file.");
+            System.err.println("Could not read read word from file : \"words.txt\"");
             e.printStackTrace();
+            System.exit(1);
         }
         return words.get(new Random().nextInt(length));
     }
